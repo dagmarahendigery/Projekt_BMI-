@@ -1,0 +1,14 @@
+height,weight,activity,expected_bmi
+170,65,siedzący tryb życia,22.49
+180,80,niska aktywność fizyczna,24.69
+160,50,aktywność fizyczna kilka razy w tygodniu,19.53
+190,100,codzienna aktywność fizyczna,27.70
+,80,siedzący tryb życia,ERROR
+
+
+
+
+
+
+
+
